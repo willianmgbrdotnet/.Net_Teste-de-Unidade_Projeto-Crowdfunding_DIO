@@ -1,0 +1,16 @@
+C:\DioCrowdfunding\dotnet-vaquinha-tests\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Repository.deps.json
+C:\DioCrowdfunding\dotnet-vaquinha-tests\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Repository.runtimeconfig.json
+C:\DioCrowdfunding\dotnet-vaquinha-tests\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Repository.runtimeconfig.dev.json
+C:\DioCrowdfunding\dotnet-vaquinha-tests\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Repository.dll
+C:\DioCrowdfunding\dotnet-vaquinha-tests\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Repository.pdb
+C:\DioCrowdfunding\dotnet-vaquinha-tests\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+C:\DioCrowdfunding\dotnet-vaquinha-tests\src\Vaquinha.Repository\bin\Debug\netcoreapp3.1\Vaquinha.Domain.pdb
+C:\DioCrowdfunding\dotnet-vaquinha-tests\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.csproj.AssemblyReference.cache
+C:\DioCrowdfunding\dotnet-vaquinha-tests\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\DioCrowdfunding\dotnet-vaquinha-tests\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.AssemblyInfoInputs.cache
+C:\DioCrowdfunding\dotnet-vaquinha-tests\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.AssemblyInfo.cs
+C:\DioCrowdfunding\dotnet-vaquinha-tests\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.csproj.CoreCompileInputs.cache
+C:\DioCrowdfunding\dotnet-vaquinha-tests\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.csproj.CopyComplete
+C:\DioCrowdfunding\dotnet-vaquinha-tests\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.dll
+C:\DioCrowdfunding\dotnet-vaquinha-tests\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.pdb
+C:\DioCrowdfunding\dotnet-vaquinha-tests\src\Vaquinha.Repository\obj\Debug\netcoreapp3.1\Vaquinha.Repository.genruntimeconfig.cache

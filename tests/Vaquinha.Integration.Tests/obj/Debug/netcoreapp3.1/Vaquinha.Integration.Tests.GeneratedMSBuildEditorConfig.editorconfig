@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Vaquinha.Integration.Tests
+build_property.ProjectDir = c:\DioCrowdfunding\dotnet-vaquinha-tests\tests\Vaquinha.Integration.Tests\

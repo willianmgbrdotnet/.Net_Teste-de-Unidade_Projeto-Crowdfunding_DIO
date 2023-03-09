@@ -1,0 +1,10 @@
+C:\DioCrowdfunding\dotnet-vaquinha-tests\src\Vaquinha.Domain\bin\Debug\netcoreapp3.1\Vaquinha.Domain.deps.json
+C:\DioCrowdfunding\dotnet-vaquinha-tests\src\Vaquinha.Domain\bin\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+C:\DioCrowdfunding\dotnet-vaquinha-tests\src\Vaquinha.Domain\bin\Debug\netcoreapp3.1\Vaquinha.Domain.pdb
+C:\DioCrowdfunding\dotnet-vaquinha-tests\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.csproj.AssemblyReference.cache
+C:\DioCrowdfunding\dotnet-vaquinha-tests\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\DioCrowdfunding\dotnet-vaquinha-tests\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.AssemblyInfoInputs.cache
+C:\DioCrowdfunding\dotnet-vaquinha-tests\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.AssemblyInfo.cs
+C:\DioCrowdfunding\dotnet-vaquinha-tests\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.csproj.CoreCompileInputs.cache
+C:\DioCrowdfunding\dotnet-vaquinha-tests\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+C:\DioCrowdfunding\dotnet-vaquinha-tests\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.pdb

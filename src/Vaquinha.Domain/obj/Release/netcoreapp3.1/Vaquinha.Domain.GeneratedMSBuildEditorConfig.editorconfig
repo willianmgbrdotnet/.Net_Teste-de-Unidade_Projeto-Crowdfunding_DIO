@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Vaquinha.Domain
+build_property.ProjectDir = C:\DioCrowdfunding\dotnet-vaquinha-tests\src\Vaquinha.Domain\
